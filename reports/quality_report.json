@@ -1,0 +1,18 @@
+{
+  "filas_entrada": 5680,
+  "filas_salida": 5227,
+  "filas_descartadas": 453,
+  "descartes_por_motivo": {
+    "duplicado": 173,
+    "importe_vacio": 105,
+    "importe_no_positivo": 95,
+    "fecha_invalida": 45,
+    "pais_desconocido": 35
+  },
+  "correcciones_aplicadas": {
+    "importe_coma_decimal": 227,
+    "pais_normalizado": 4130,
+    "fecha_normalizada_a_iso": 2444,
+    "estado_normalizado": 308
+  }
+}
